@@ -1,0 +1,13 @@
+ReservationVan
+
+Table: Reservation
+
+Columns:
+
+Type: VARCHAR (Dropdown selection)
+Name: VARCHAR
+Address: VARCHAR
+Car Plate Number: VARCHAR
+Contact Number: VARCHAR
+Start Date: DATE
+End Date: DATE
